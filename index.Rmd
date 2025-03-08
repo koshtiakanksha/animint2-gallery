@@ -1,0 +1,20 @@
+---
+title: "Animint2 Gallery"
+author: "Akanksha Koshti"
+date: "2025-03-08"
+output: html_document
+---
+
+## Welcome to the Animint2 Gallery
+
+This gallery contains interactive visualizations created using **Animint2**.
+
+### **Available Visualizations**
+- [Poisson Regression](poisson-regression/index.html)
+- [Binomial Regression](binomial-regression/index.html)
+
+Click on any visualization to explore the interactive plots!
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
